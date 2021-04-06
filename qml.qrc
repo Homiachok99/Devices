@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>PageBackground.qml</file>
+        <file>SideBar.qml</file>
+        <file>SideBarForm.ui.qml</file>
+        <file>Devices.qml</file>
+        <file>DevicesForm.ui.qml</file>
+    </qresource>
+</RCC>
